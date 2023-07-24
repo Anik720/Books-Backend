@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\Golam Kibria Anik\\Desktop\\Jhankar\\Assignment-3\\logs\\winston\\successes\\.b630e8391e9ec091abcdf322348d4c7d1e9e8d6c-audit.json",
+    "files": [
+        {
+            "date": 1687099774142,
+            "name": "C:\\Users\\Golam Kibria Anik\\Desktop\\Jhankar\\Assignment-3\\logs\\winston\\successes\\GK-2023-18-06-20.log",
+            "hash": "4f937b062db324742b062a9be95e59c2bcdd3f4b5e9a192afdda0eb5e0ec134a"
+        },
+        {
+            "date": 1687100632005,
+            "name": "C:\\Users\\Golam Kibria Anik\\Desktop\\Jhankar\\Assignment-3\\logs\\winston\\successes\\GK-2023-18-06-21.log",
+            "hash": "4e0893db0a3814e1b71d85399e953705accac0a6b5d911cd356daa97c65c3197"
+        },
+        {
+            "date": 1687106990067,
+            "name": "C:\\Users\\Golam Kibria Anik\\Desktop\\Jhankar\\Assignment-3\\logs\\winston\\successes\\GK-2023-18-06-22.log",
+            "hash": "640577395d0c7c113e86cea38bf3e73cad324d39c55bc7783302f6603c24b475"
+        },
+        {
+            "date": 1687108209698,
+            "name": "C:\\Users\\Golam Kibria Anik\\Desktop\\Jhankar\\Assignment-3\\logs\\winston\\successes\\GK-2023-18-06-23.log",
+            "hash": "663203f7f87a2eb7c86db7c94d627f06c23155138bb8ee803ca74e60b57b4a2d"
+        },
+        {
+            "date": 1687163254161,
+            "name": "C:\\Users\\Golam Kibria Anik\\Desktop\\Jhankar\\Assignment-3\\logs\\winston\\successes\\GK-2023-19-06-14.log",
+            "hash": "6311e43c90c39d34733c3091b383d10104fc5483a35b2966f866aa2ae3304b10"
+        },
+        {
+            "date": 1687165398889,
+            "name": "C:\\Users\\Golam Kibria Anik\\Desktop\\Jhankar\\Assignment-3\\logs\\winston\\successes\\GK-2023-19-06-15.log",
+            "hash": "eb7a22d8524ccc6e9907e57775ada4acbcb4292ac7024d669a337edc9c9408a6"
+        },
+        {
+            "date": 1687169210094,
+            "name": "C:\\Users\\Golam Kibria Anik\\Desktop\\Jhankar\\Assignment-3\\logs\\winston\\successes\\GK-2023-19-06-16.log",
+            "hash": "e0ee6f63ad4d57c4dcf07d44c7369d76fdd99f99cf6134ceff5c2359e434cc76"
+        },
+        {
+            "date": 1687195294805,
+            "name": "C:\\Users\\Golam Kibria Anik\\Desktop\\Jhankar\\Assignment-3\\logs\\winston\\successes\\GK-2023-19-06-23.log",
+            "hash": "65b3fb6397ce330f216b00e5475ea66c4f437ca18f6a817386876fb242793808"
+        }
+    ],
+    "hashType": "sha256"
+}
