@@ -18,7 +18,7 @@ app.get('/', (req, res, next) => {
   //   next('Hello error')
   // Promise.reject(new Error('Unhandle rejection'))
 })
-// global error handler
+
 app.use(globalErrorHandler)
 
 app.use((req: Request, res: Response, next: NextFunction) => {

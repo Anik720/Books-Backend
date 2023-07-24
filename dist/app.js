@@ -18,7 +18,6 @@ app.get('/', (req, res, next) => {
     //   next('Hello error')
     // Promise.reject(new Error('Unhandle rejection'))
 });
-// global error handler
 app.use(globalErrorHandlers_1.default);
 app.use((req, res, next) => {
     res.status(http_status_1.default.NOT_FOUND).json({
