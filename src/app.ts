@@ -15,7 +15,7 @@ app.use(express.urlencoded({ extended: true }))
 app.use('/api/v1', routes)
 app.get('/', (req, res, next) => {
   throw new Error('Testing error logger')
-  //   next('Hello error')
+ 
   // Promise.reject(new Error('Unhandle rejection'))
 })
 
